@@ -1,0 +1,76 @@
+h1 {
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.8);
+}
+
+#photo {
+  border-radius: 100%;
+  width: 150px;
+  padding-bottom: 10px;
+}
+
+
+/*#contact a {
+  color: white;
+}
+
+#contact a:hover {
+  font-size: 1.5em;
+}*/
+
+.rotate {
+  /*position: absolute;*/
+  text-indent: 5px;
+  display: inline-block;
+  font-weight: bold;
+}
+
+
+/*section.bg-primary a {
+  background-color: rgba(255, 255, 255, 0.8);
+  color: black;
+}
+
+section.bg-primary a:hover,
+section.bg-primary a:active,
+section.bg-primary a:focus {
+  background-color: rgba(255, 255, 255, 1);
+  color: black;
+}*/
+
+.btn-outline {
+  border: 2px solid white;
+  border-radius: 0;
+  background-color: transparent;
+  color: #FFF;
+}
+
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active {
+  border: 2px solid white;
+  border-radius: 50px;
+  background-color: #FFF;
+  color: #f05f40;
+}
+
+.btn-outline-primary {
+  border: 2px solid #f05f40;
+  border-radius: 0;
+  background-color: transparent;
+  color: #f05f40;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-primary:active {
+  border: 2px solid #f05f40;
+  border-radius: 50px;
+  background-color: #f05f40;
+  color: #FFF;
+}
+
+
+/*section {
+  height: 100%;
+  width: 100%;
+}*/
